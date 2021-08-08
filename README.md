@@ -1,1 +1,3 @@
 # SGPA-CGPA-CALCULATOR
+
+We have Developed a android mobile application wherein this application is used by VTU Computer Science students of 2018 scheme in which student can download this application and start using it. Initially, a user will see a page where he/she has to select to calculate either CGPA or SGPA. If the user wants to calculate CGPA, then user has to enter the semester's SGPA's in the respective fields. The results will appear.When SGPA is selected, then user has to choose the semester for which user wants to calculate. Then, user has to enter the marks obtained and SGPA is calaculated and displayed.
